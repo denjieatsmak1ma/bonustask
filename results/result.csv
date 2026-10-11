@@ -1,0 +1,7 @@
+scenario;n;bst_insert_us;hash_insert_us;bst_search_us;hash_search_us;bst_delete_us;hash_delete_us
+random;100;19.6;17.3;9.0;7.7;13.4;05.ט‏כ
+random;1000;72.4;50.1;61.5;13.8;64.6;14.לאי
+random;10000;914.8;322.5;955.4;51.6;1099.6;55.2
+sorted;100;7.5;1.2;8.1;0.3;0.3;0.3
+sorted;1000;764.0;15.8;846.2;4.2;3.9;06.אגד
+sorted;10000;71636.4;346.9;78697.8;38.7;31.7;35.0
